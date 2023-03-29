@@ -1,6 +1,7 @@
 footer {
   position: absolute;
-  bottom: 0;
+  left: 0;
+  right: 0;
   width: 100%;
   background-color: #222;
   color: #fff;
@@ -9,6 +10,7 @@ footer {
   flex-direction: column;
   align-items: center;
   font-size: 16px;
+  bottom: 0;
 }
 
 footer a {
@@ -27,7 +29,6 @@ footer span {
   margin-bottom: 10px;
 }
 
-
 footer .copyright {
   display: flex;
   align-items: center;
@@ -38,3 +39,4 @@ footer .copyright {
 footer .copyright span {
   margin-right: 10px;
 }
+
