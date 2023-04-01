@@ -1,0 +1,116 @@
+footer {
+  position: absolute;
+  left: 0;
+  right: 0;
+  width: 100%;
+  background-color: #222;
+  color: #fff;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 16px;
+  bottom: 0;
+}
+
+footer a {
+  color: #fff;
+  text-decoration: none;
+  margin-bottom: 10px;
+  transition: all 0.3s ease-in-out;
+}
+
+footer a:hover {
+  color: #ef5b5b;
+}
+
+footer span {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+/* Estilo para el copyright */
+
+footer .copyright {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+footer .copyright span {
+  margin-right: 10px;
+}
+
+/* Estilos para el encabezado */
+@import url('https://fonts.googleapis.com/css2?family=Shantell+Sans:wght@300&display=swap');
+
+/* Set the font family for all elements */
+body {
+font-family: 'Roboto', sans-serif;
+margin: 0;
+}
+
+/* Style the header */
+header {
+color: white;
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: space-between;
+background-color: rgb(42, 39, 39);
+padding: 20px;
+}
+
+
+a {
+color: white;
+text-align: center;
+text-decoration: none; / Para quitar el subrayado de los enlaces /
+transition: all 0.3s ease; / Agregar una transición suave */
+
+}
+
+/* Cambiar el color de los enlaces al pasar el cursor sobre ellos */
+a:hover {
+color: #ef5b5b;
+transition: all 0.3s ease-in-out;
+}
+
+/* Style the navigation */
+nav {
+display: flex;
+gap: 60px;
+align-items: center;
+}
+
+
+.logo-container {
+  float: left;
+}
+
+nav {
+  clear: both;
+}
+
+iframe {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  margin: 20px;
+  width: 250px;
+  height: 150px;
+}
+
+.payment-container {
+position: fixed;
+  left: 0;
+  bottom: 0;
+  margin: 67px;
+  width: 250px;
+  height: 150px;
+
+}
+
+
+
