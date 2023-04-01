@@ -29,7 +29,6 @@ footer span {
   margin-bottom: 10px;
 }
 
-/* Estilo para el copyright */
 
 footer .copyright {
   display: flex;
@@ -42,16 +41,16 @@ footer .copyright span {
   margin-right: 10px;
 }
 
-/* Estilos para el encabezado */
+
 @import url('https://fonts.googleapis.com/css2?family=Shantell+Sans:wght@300&display=swap');
 
-/* Set the font family for all elements */
+
 body {
 font-family: 'Roboto', sans-serif;
 margin: 0;
 }
 
-/* Style the header */
+
 header {
 color: white;
 display: flex;
@@ -71,13 +70,13 @@ transition: all 0.3s ease; / Agregar una transición suave */
 
 }
 
-/* Cambiar el color de los enlaces al pasar el cursor sobre ellos */
+
 a:hover {
 color: #ef5b5b;
 transition: all 0.3s ease-in-out;
 }
 
-/* Style the navigation */
+
 nav {
 display: flex;
 gap: 60px;
@@ -111,6 +110,3 @@ position: fixed;
   height: 150px;
 
 }
-
-
-
