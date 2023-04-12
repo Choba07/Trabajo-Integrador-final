@@ -1,0 +1,36 @@
+{
+  "heladera_wenter": {
+    "nombre": "Heladera Wenter",
+    "descripcion": "Heladera con freezer de 450L, color blanco, eficiencia energética A+",
+    "precio": 9999
+  },
+  "lavarropa_hulix": {
+    "nombre": "Lavarropa Hulix",
+    "descripcion": "Lavarropa automático de carga frontal de 8kg, color gris, eficiencia energética A++",
+    "precio": 7999
+  },
+  "microondas_genter": {
+    "nombre": "Microondas Genter",
+    "descripcion": "Microondas con grill de 20L, color negro, potencia 800W",
+    "precio": 3999
+  },
+  "cocina_aspen": {
+    "nombre": "Cocina Aspen",
+    "descripcion": "Cocina a gas de 4 hornallas y horno, color blanco, encendido electrónico",
+    "precio": 5999
+  },
+  "licuadora_susan": {
+    "nombre": "Licuadora Susan",
+    "descripcion": "Licuadora de 1.5L, color rojo, potencia 500W",
+    "precio": 1999
+  },
+  "batidora_lux": {
+    "nombre": "Batidora Lux",
+    "descripcion": "Batidora de mano con accesorios, color plateado, potencia 300W",
+    "precio": 2999
+  }
+}
+
+
+
+
