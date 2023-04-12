@@ -1,0 +1,32 @@
+[
+
+{
+  "productos": [
+    {
+      "nombre": "Heladera Wenter",
+      "precio": "$9999"
+    },
+    {
+      "nombre": "Lavarropa Hulix",
+      "precio": "$7999"
+    },
+    {
+      "nombre": "Microondas Genter",
+      "precio": "$3999"
+    },
+    {
+      "nombre": "Cocina Aspen",
+      "precio": "$5999"
+    },
+    {
+      "nombre": "Licuadora Susan",
+      "precio": "$1999"
+    },
+    {
+      "nombre": "Batidora Lux",
+      "precio": "$2999"
+    }
+  ]
+}
+
+]
