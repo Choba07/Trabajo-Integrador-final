@@ -172,81 +172,7 @@ p {
 }
 
 
-
-.informacion {
-  background-color: #f2f2f2;
-  padding: 50px;
-  box-shadow: 20px 20px 20px 20px rgba(0, 0, 0, 0.1);
-}
-
-.presentacion {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
-
-.contenidoTitulo {
-  margin-bottom: 30px;
-}
-
-.titulo {
-  font-size: 2rem;
-  text-align: center;
-}
-
-.contenidoCard {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr); /* 3 columnas iguales */
-  grid-template-rows: repeat(2, 1fr); /* 2 filas iguales */
-  grid-gap: 30px;
-  justify-items: center;
-  margin-top: 30px;
-  box-shadow: 5px 5px 20px 20px rgba(0, 0, 0, 0.1);
-}
-
-
-
-.contGeneral {
-  background-color: #f2f2f2;
-  border-radius: 5px;
-  padding: 20px;
-  text-align: center;
-  align-items: center;
-}
-
-.imagen {
-  border-radius: 50%;
-  width: 150px;
-  height: 150px;
-  object-fit: cover;
-  margin-bottom: 10px;
-}
-
-h2 {
-  font-size: 1.5rem;
-  margin-bottom: 5px;
-}
-
-p {
-  margin-bottom: 10px;
-}
-
-.linkedIn {
-  display: inline-block;
-  background-color: #0e76a8;
-  color: #000000;
-  padding: 10px 15px;
-  border-radius: 5px;
-  transition: all 0.3s ease;
-}
-
-.linkedIn:hover {
-  background-color: #094f6d98;
-}
-
-
-
+/*ESTILOS PARA LA SECCIÓN CONTACTO */
 .contact {
   background-color: #f2f2f2;
   padding: 50px;
@@ -303,7 +229,7 @@ form button[type="submit"] {
   cursor: pointer;
 }
 
-
+/*ESTILOS SECCIÓN FOOTER */
 footer {
   background-color: #000000;
   color: #fff;
